@@ -5,4 +5,5 @@
         <property name="context-root" value="BankPortal"/>
         <property name="java-output-path" value="/BankPortal/build/classes"/>
     </wb-module>
+    
 </project-modules>
