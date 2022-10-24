@@ -19,6 +19,7 @@ public class DBConfig {
 				String driver="com.mysql.jdbc.Driver";
 				Connection conn;
 			
+	
 				//Step 2
 				private void dbConnect() throws ClassNotFoundException, SQLException{
 					//Load the driver
